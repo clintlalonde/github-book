@@ -1,0 +1,12 @@
+{
+  "name": "filtered-collection",
+  "homepage": "https://github.com/dlikhten/filtered-collection",
+  "_release": "fa5c827fe6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fa5c827fe64231852eef91d0bc7e999c1242e2e5"
+  },
+  "_source": "git://github.com/dlikhten/filtered-collection.git",
+  "_target": "*"
+}

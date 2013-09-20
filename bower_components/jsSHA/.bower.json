@@ -1,0 +1,12 @@
+{
+  "name": "jsSHA",
+  "homepage": "https://github.com/Caligatio/jsSHA",
+  "_release": "release-1.42",
+  "_resolution": {
+    "type": "tag",
+    "tag": "release-1.42",
+    "commit": "b0ce2e81fb6ac3dc6c643e69f494dcc7e4372a2a"
+  },
+  "_source": "git://github.com/Caligatio/jsSHA.git",
+  "_target": "release-1.42"
+}
